@@ -5,6 +5,6 @@
 # Links exemplo
 
 - https://degrade-mask-image.vercel.app/
-- https://degrade-mask-image.vercel.app/varios
+- https://degrade-mask-image.vercel.app/varios.html
 
 <img src="./img/exemplo.png" alt="Exemplo">
